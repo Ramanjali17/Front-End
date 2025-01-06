@@ -1,0 +1,17 @@
+#navbar {
+  position: left;
+}
+#navbar li {
+  color: none;
+}
+code {
+  margin: 10px 0 0 10px;
+  background-color: rgb(216, 223, 224);
+  box-sizing: content-box;
+}
+
+@media (max-width: 768px) {
+  #navbar a {
+    text-decoration: none;
+  }
+}

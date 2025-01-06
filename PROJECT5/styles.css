@@ -1,0 +1,19 @@
+label {
+  display: block;
+  width: 100%;
+}
+input {
+  width: 100%;
+}
+h1,
+p {
+  text-align: center;
+}
+form {
+  width: 80%;
+  background-color: darkblue;
+  color: white;
+}
+body {
+  background-color: blue;
+}
